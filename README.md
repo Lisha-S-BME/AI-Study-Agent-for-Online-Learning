@@ -36,3 +36,7 @@ This system can help:
 ## Project Demo / Code
 Google Colab Notebook:  
 https://colab.research.google.com/drive/10-bI2WbhfGS4GUYJDiQRLyF-bOt0uUui?authuser=1
+
+## Demo Video
+Watch the project demonstration here:  
+https://drive.google.com/file/d/1l-RL_4CswHsBZaxdSCsY2w5BwJv6KsX5/view?usp=drivesdk
